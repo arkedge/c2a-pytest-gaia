@@ -8,3 +8,4 @@
 
 -e file:.
 grpcio==1.54.2
+protobuf==4.23.2
